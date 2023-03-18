@@ -30,7 +30,10 @@ twitter_username: jekyllrb
 github_username:  jekyll
 
 collections:
-  - events
+  events:
+    output: true
+    permalink: /events/:path/
+
 
 # Build settings
 theme: minima
