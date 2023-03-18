@@ -33,6 +33,9 @@ collections:
   events:
     output: true
     permalink: /events/:path/
+  posts:
+    output: true
+    permalink: /posts/:path/
 
 
 # Build settings
