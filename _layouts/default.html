@@ -1,20 +1,36 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
   <head>
-    <meta charset="utf-8">
+    <meta charset="utf-8" />
     <title>{{ page.title }}</title>
     {% include header.html %}
   </head>
   <body>
-        <main id="main-content" class="site-content">
-            <article class="page-content post-64 page type-page status-publish hentry">
-                <header class="entry-header">
-                    <h1 class="entry-title">{{ page.title }}</h1>
-                </header>
-                <div class="entry-content">
-                    {{ content }}
-                </div>
-            </article>
+    <main id="main-content" class="site-content">
+      <article
+        class="page-content post-64 page type-page status-publish hentry"
+      >
+        <header class="entry-header">
+          <h1 class="entry-title">{{ page.title }}</h1>
+        </header>
+        <div class="entry-content">{{ content }}</div>
+      </article>
+      <section class="conference-bucket">
+        <header class="header">
+          <h2 class="header__headline">Blog</h2>
+        </header>
+        <ul class="conference-bucket__conferences">
+          {% for post in site.posts %}
+          <li class="conference-bucket__conference">
+            <h3 class="conference-bucket__conference__name">
+              <a href="{{ post.url }}" target="_blank">{{ post.title }}</a>
+              <span class="icon">CO</span>
+            </h3>
+            <p class="conference-bucket__conference__meta">{{post.date}}</p>
+          </li>
+          {% endfor %}
+        </ul>
+      </section>
     </main>
     {% include footer.html %}
   </body>
