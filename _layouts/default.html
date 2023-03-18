@@ -6,11 +6,16 @@
     {% include header.html %}
   </head>
   <body>
-    <section>
         <main id="main-content" class="site-content">
-      {{ content }}
+            <article class="page-content post-64 page type-page status-publish hentry">
+                <header class="entry-header">
+                    <h1 class="entry-title">{{ page.title }}</h1>
+                </header>
+                <div class="entry-content">
+                    {{ content }}
+                </div>
+            </article>
     </main>
-    </section>
     {% include footer.html %}
   </body>
 </html>
