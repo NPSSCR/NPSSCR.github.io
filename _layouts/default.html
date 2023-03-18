@@ -31,8 +31,26 @@
           </li>
           {% endfor %}
         </ul>
+    </section>
+
+    <section class="conference-bucket">
+        <header class="header">
+          <h2 class="header__headline">Eventos</h2>
+        </header>
+        <ul class="conference-bucket__conferences">
+          {% for event in site.events %}
+          <li class="conference-bucket__conference">
+            <h3 class="conference-bucket__conference__name">
+              <a href="{{ event.url | relative_url }}" target="_blank">{{ event.title }}</a>
+              <span class="icon">CO</span>
+            </h3>
+            <p class="conference-bucket__conference__meta">{{event.date}}</p>
+          </li>
+          {% endfor %}
+        </ul>
+    </section>
+
     </aside>
-      </section>
     </main>
     {% include footer.html %}
   </body>
