@@ -12,7 +12,7 @@
         <header class="entry-header">
           <h1 class="entry-title">{{ page.title }}</h1>
         </header>
-        <div class="tc fw1 f2 near-white sans-serif center" id="clockdiv"></div>
+        <p><strong><div class="tc fw1 f2 near-white sans-serif center" id="clockdiv"></div></strong></p>
         <script>
           var event = {{ page | jsonify }};
           var eventDate = new Date(event.eventdate);
