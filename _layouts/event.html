@@ -77,6 +77,10 @@
           
           InitializeClock('clockdiv', eventDate);
 
+          if (eventDate < new Date()) {
+            document.getElementById('clockdiv').innerHTML = '<div class="tc fw1 f2 near-white sans-serif center">This event has already happened</div>';
+          }
+
 
         </script>
         <div class="entry-content">{{ content }}</div>
