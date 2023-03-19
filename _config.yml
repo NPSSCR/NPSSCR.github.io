@@ -44,8 +44,6 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-gems:
-- jekyll-email-protect
 
 
 # Exclude from processing.
