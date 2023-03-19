@@ -65,6 +65,9 @@
               hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
               minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
               secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
+              var clockdiv = document.getElementById('clockdiv');
+              var time = t.days + ' days ' + t.hours + ' hours ' + t.minutes + ' minutes ' + t.seconds + ' seconds';
+              document.getElementById(clockdiv).innerHTML = '<div class="tc fw1 f2 near-white sans-serif center">This event will happen on ' + time + ' at ' + eventTime + '</div>'
 
               if (t.total <= 0) {
                 clearInterval(timeinterval);
