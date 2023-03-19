@@ -32,7 +32,7 @@
         </div>
         <script>
           var event = {{ page | jsonify }};
-          var eventDate = new Date(event.date);
+          var eventDate = new Date(event.eventDate);
           var eventDateFormatted = eventDate.toLocaleDateString('es-CR', { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' });
           var eventTime = eventDate.toLocaleTimeString('es-CR', { hour: '2-digit', minute: '2-digit' });
           
