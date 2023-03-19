@@ -26,7 +26,7 @@
               <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
               <span class="icon">CO</span>
             </h3>
-            <p class="conference-bucket__conference__meta">{{post.date}}</p>
+            <p class="conference-bucket__conference__meta">{{post.date | replace: "00:00:00 +0000", ""}}</p>
           </li>
           {% endfor %}
         </ul>
