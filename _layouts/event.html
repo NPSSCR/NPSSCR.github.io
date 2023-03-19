@@ -60,13 +60,20 @@
 
             function updateClock() {
               var t = getTimeRemaining(endtime);
-
-              daysSpan.innerHTML = t.days;
-              hoursSpan.innerHTML = ('0' + t.hours).slice(-2);
-              minutesSpan.innerHTML = ('0' + t.minutes).slice(-2);
-              secondsSpan.innerHTML = ('0' + t.seconds).slice(-2);
-              var time = t.days + ' days ' + t.hours + ' hours ' + t.minutes + ' minutes ' + t.seconds + ' seconds';
-              document.getElementById('clockdiv').innerHTML = '<div class="tc fw1 f2 near-white sans-serif center">This event will happen on ' + time + ' at ' + eventTime + '</div>'
+              var time = t.days + ' días ' + t.hours + ' horas ' + t.minutes + ' minutos ' + t.seconds + ' segundos';
+              if (t.days == 1) {
+                var time = t.days + ' día ' + t.hours + ' horas ' + t.minutes + ' minutos ' + t.seconds + ' segundos';
+              }
+              if (t.days == 0) {
+                var time = t.hours + ' horas ' + t.minutes + ' minutos ' + t.seconds + ' segundos';
+              }
+              if (t.days == 0 && t.hours == 0) {
+                var time = t.minutes + ' minutos ' + t.seconds + ' segundos';
+              }
+              if (t.days == 0 && t.hours == 0 && t.minutes == 0) {
+                var time = t.seconds + ' segundos';
+              }
+              document.getElementById('clockdiv').innerHTML = '<div class="tc fw1 f2 near-white sans-serif center">Este evento inicia en ' + time + '</div>'
 
               if (t.total <= 0) {
                 clearInterval(timeinterval);
@@ -80,7 +87,7 @@
           InitializeClock('clockdiv', eventDate);
 
           if (eventDate < new Date()) {
-            document.getElementById('clockdiv').innerHTML = '<div class="tc fw1 f2 near-white sans-serif center">This event has already happened</div>';
+            document.getElementById('clockdiv').innerHTML = '<div class="tc fw1 f2 near-white sans-serif center">El evento ha finalizado</div>';
           }
 
 
