@@ -13,9 +13,9 @@ Sciences Society (NPSS), se ha planteado como uno de sus objetivos para el 2023,
 capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 
 
-<details class="toggle__trigger toggle--closed__trigger">
-<summary>Propuesta Formal</summary>
-Puede encontrar la propuesta formal del proyecto en el siguiente link:
-
- <a href="">PDF</a>
-</details>
+<div class="toggles__toggle toggle toggle--closed" id="about-canps-a-brief-history-of-canps">
+						<h3 class="toggle__trigger toggle--closed__trigger">Propuesta Formal</h3>
+						<div class="toggle__content toggle--closed__content" style="display: none;">
+<p>La propuesta formal en PDF se puede descargar en el siguiente Link:</p>
+			</div>
+		</div>
