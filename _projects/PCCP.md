@@ -11,3 +11,10 @@ nuevas tecnologías emergentes, como la fusión nuclear controlada para la gener
 segura y sostenible o la exploración espacial. Es por esto por lo que el Capítulo Nuclear & Plasma
 Sciences Society (NPSS), se ha planteado como uno de sus objetivos para el 2023, brindar
 capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
+
+<details>
+<summary>Propuesta Formal</summary>
+Puede encontrar la propuesta formal del proyecto en el siguiente link:
+[Propuesta](/assets/docs/Propuesta_PCCP.pdf)
+
+</details>
