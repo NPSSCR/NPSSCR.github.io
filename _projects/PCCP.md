@@ -19,3 +19,5 @@ capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 <p>La propuesta formal en PDF se puede descargar en el siguiente Link:</p>
 			</div>
 		</div>
+
+<script type="text/javascript" src="https://ieee-npss.org/wp-content/themes/npss/js/npss-toggles.min.js?ver=0.0.1" id="npss-toggles-js"></script>
