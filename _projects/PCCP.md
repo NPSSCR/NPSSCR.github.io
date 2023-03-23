@@ -1,5 +1,5 @@
 ---
-layout: full
+layout: default
 title: "Programa de capacitación de colegios en plasma"
 ---
 El plasma es el cuarto estado fundamental de la materia y el más común de todos. Aproximadamente el
