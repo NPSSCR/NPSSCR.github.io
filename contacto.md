@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Únete"
+title: "Contáctenos"
 permalink: /contacto/
 ---
 Puedes contactarnos por medio de nuestras redes sociales o por medio del siguiente formulario:
