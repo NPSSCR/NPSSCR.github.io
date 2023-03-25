@@ -24,3 +24,19 @@ Además, la NPSS ha publicado varios journals científicos, incluyendo Transacti
 Hoy en día, la NPSS sigue siendo una organización líder en ciencias nucleares y de plasma, trabajando para promover el avance de la tecnología y el conocimiento en estos campos y fomentar el desarrollo profesional de sus miembros.
 			</div>
 		</div>
+
+
+<div class="toggles__toggle toggle toggle--closed" id="about-canps-a-brief-history-of-canps">
+						<h3 class="toggle__trigger toggle--closed__trigger">NPSS en Costa Rica</h3>
+						<div class="toggle__content toggle--closed__content" style="display: none;">
+			 	En Costa Rica, la NPSS se estableció en el año 2018, en el Laboratorio de física de plasmas para energía de fusion y aplicaciones del Tecnológico de Costa Rica (TEC).
+
+Desde su fundación, la NPSS ha tenido como objetivo principal promover la investigación y el desarrollo de tecnologías basadas en plasma en el país. Para ello, ha trabajado en la organización de eventos, charlas y talleres con el fin de divulgar el conocimiento y fomentar el intercambio de ideas entre los miembros de la comunidad científica y tecnológica.
+
+El capítulo de la NPSS en Costa Rica ha sido uno de los más activos a nivel mundial, gracias al compromiso y dedicación de sus miembros. Han realizado diversas actividades como visitas a empresas, universidades y colegios para impartir charlas y promover el conocimiento sobre el plasma y sus aplicaciones.
+
+Entre las actividades más destacadas de la NPSS en Costa Rica se encuentran la organización de talleres de capacitación en plasmas térmicos y no térmicos para estudiantes de secundaria y universidad, así como la participación en congresos y eventos internacionales para presentar los avances y logros alcanzados en la investigación sobre plasma.
+
+Gracias al trabajo de la NPSS en Costa Rica, cada vez son más las personas interesadas en el plasma y sus aplicaciones. Se espera que en el futuro, este capítulo continúe creciendo y contribuyendo al desarrollo de tecnologías innovadoras y sostenibles en el país.
+			</div>
+		</div>
