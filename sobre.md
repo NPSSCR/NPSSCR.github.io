@@ -14,3 +14,10 @@ Entre las actividades más destacadas de la NPSS en Costa Rica se encuentran la 
 Gracias al trabajo de la NPSS en Costa Rica, cada vez son más las personas interesadas en el plasma y sus aplicaciones. Se espera que en el futuro, este capítulo continúe creciendo y contribuyendo al desarrollo de tecnologías innovadoras y sostenibles en el país.
 
 ## Junta Directiva
+
+| CHAIR | VICE-CHAIR | TESORERO | SECRETARIO |
+|-------|------------|----------|------------|
+| Fabian Alvarez       |            |    Fabricio Coto      |        Jose Andres Borloz    |
+
+
+
