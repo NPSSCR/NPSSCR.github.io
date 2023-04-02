@@ -12,8 +12,6 @@ La membresía en NPSS ofrece una comunicación regular e intercambio técnico di
 - Las oportunidades de voluntariado para miembros en NPSS brindan experiencia de liderazgo, lo que también fortalece tu carrera.
 Peter Clout, presidente del Comité de Membresía de NPSS.
 
-La Historia de NPSS está disponible [aquí](enlace-a-historia-de-npss).
-
 Los miembros y afiliados de NPSS reciben:
 
 - Descuentos significativos en las tarifas de registro para las Conferencias Anuales Internacionales de NPSS y en las compras de Actas de Conferencias de NPSS.
