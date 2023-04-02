@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: full
 title: "Contáctenos"
 permalink: /contacto/
 ---
