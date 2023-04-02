@@ -61,6 +61,9 @@
               if (t.total <= 0) {
                 clearInterval(timeinterval);
               }
+              if (eventDate < new Date()) {
+                document.getElementById('clockdiv').innerHTML = '<div class="tc fw1 f2 near-white sans-serif center">El evento ha finalizado</div>';
+              }
             }
 
             updateClock();
@@ -76,6 +79,21 @@
         <div class="entry-content">{{ content }}</div>
         </article>
     </section>
+    <section class="conference-bucket">
+      <header class="header">
+        <h2 class="header__headline">Eventos</h2>
+      </header>
+      <ul class="conference-bucket__conferences">
+        {% for event in site.events limit:5 %}
+        <li class="conference-bucket__conference">
+          <h3 class="conference-bucket__conference__name">
+            <a href="{{ event.url | relative_url }}" target="_blank">{{ event.title }}</a>
+          </h3>
+          <p class="conference-bucket__conference__meta">{{event.eventdate | replace: "-0600", "GMT-6"}}</p>
+        </li>
+        {% endfor %}
+      </ul>
+  </section>
     </main>
     {% include footer.html %}
   </body>
