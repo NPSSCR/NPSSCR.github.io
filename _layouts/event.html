@@ -107,7 +107,7 @@
             <h3 class="conference-bucket__conference__name">
               <a href="{{ event.url | relative_url }}" target="_blank">{{ event.title }}</a>
             </h3>
-            <p class="conference-bucket__conference__meta">{{event.eventdate | date: '%d /%m /%Y %H:%M'}}</p>
+            <p class="conference-bucket__conference__meta">{{event.eventdate | date: '%d/%m/%Y %H:%M'}}</p>
           </li>
           {% endfor %}
         </ul>
