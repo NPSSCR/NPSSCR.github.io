@@ -1,7 +1,7 @@
 ---
 title: Eventos
 layout: blog-index
-permalink: /eventes/
+permalink: /events/
 ---
 # Eventos
 <ul>
