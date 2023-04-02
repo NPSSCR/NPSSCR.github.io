@@ -12,12 +12,20 @@ segura y sostenible o la exploración espacial. Es por esto por lo que el Capít
 Sciences Society (NPSS), se ha planteado como uno de sus objetivos para el 2023, brindar
 capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 
+## Objetivos
+- Introducir a los estudiantes de colegios en el campo de la física de plasmas de manera didáctica y entretenida.
 
-<div class="toggles__toggle toggle toggle--closed" id="about-canps-a-brief-history-of-canps">
-						<h3 class="toggle__trigger toggle--closed__trigger">Formulario de solicitud</h3>
-						<div class="toggle__content toggle--closed__content" style="display: none;">
-				<div id="ss_survey_widget"></div>
-  <script id="SS_SCRIPT">function sparrowLaunch(opts){var e="ss-widget",t="script",a=document,r=window,l=localStorage;var s,n,c,rm=a.getElementById('SS_SCRIPT');r.SS_WIDGET_TOKEN="tt-sD4NLajNGs6ppaadFocTaz";r.SS_ACCOUNT="ieee.surveysparrow.com";r.SS_SURVEY_NAME="solicitud-de-charlas";if(!a.getElementById(e) && !l.getItem('removed-ss-widget-tt-sD4NLajNGs6ppaadFocTaz')){var S=function(){S.update(arguments)};S.args=[];S.update=function(e){S.args.push(e)};r.SparrowLauncher=S;s=a.getElementsByTagName(t);c=s[s.length-1];n=a.createElement(t);n.type="text/javascript";n.async=!0;n.id=e;n.src=["https://","ieee.surveysparrow.com/widget/",r.SS_WIDGET_TOKEN,"?","customParams=",JSON.stringify(opts)].join("");c.parentNode.insertBefore(n,c);r.SS_VARIABLES=opts;rm.parentNode.removeChild(rm);}};</script>
-  <script>sparrowLaunch({/*add custom params here*/})</script>
-			</div>
-		</div>
+- Desarrollar habilidades en los estudiantes para comprender y analizar fenómenos relacionados con plasmas.
+
+- Fomentar el interés y la curiosidad en los estudiantes por la ciencia y la tecnología, en particular en la física de plasmas.
+
+- Promover la colaboración y el trabajo en equipo entre estudiantes en la resolución de problemas relacionados con plasmas.
+
+- Desarrollar habilidades en los estudiantes para la comunicación efectiva de resultados y conclusiones en presentaciones orales y escritas.
+
+- Proporcionar herramientas y recursos para que los profesores puedan continuar enseñando sobre plasmas después del programa de capacitación.
+
+- Establecer una red de colegios interesados en la física de plasmas que puedan colaborar en futuros proyectos y actividades científicas.
+
+## Links de interés
+- [Carta oficial](/assets/pdfs/Proyecto%20de%20divulgaci%C3%B3n%20cientifica%20NPSS-ITCR-IEEE-F.pdf)
