@@ -30,3 +30,6 @@ capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 ## Links de interés
 - [Carta oficial](/assets/pdfs/Proyecto%20de%20divulgaci%C3%B3n%20cientifica%20NPSS-ITCR-IEEE-F.pdf)
 - [Formulario de inscripción](https://ieee.surveysparrow.com/s/solicitud-de-charlas/tt-98UbXsRdPfYf5w1YpnsXL5)
+  
+## Galería
+{% include image-gallery.html folder="/assets/img/galeria/PCCP" %}
