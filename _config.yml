@@ -34,10 +34,10 @@ defaults:
     path: "assets/pdfs/"
   values:
     pdf: true
-  - scope:
-      path: "assets/img/pccp"
-    values:
-      image: true
+  -scope:
+    path: "assets/img/pccp"
+  values:
+    image: true
 
 collections:
   events:
