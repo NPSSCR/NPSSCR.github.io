@@ -41,7 +41,7 @@ capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 
 <div class="owl-item cloned" style="width: 499.198px;"><div id="slider_2449_slide06" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(/assets/img/pccp/355426698_931249457986654_2066725084347916471_n.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"></div></div></div>
 
-<div class="owl-item cloned" style="width: 499.198px;"><div id="slider_2449_slide07" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(/assets/img/pccp/355438134_1004836217174101_1000002577192842272_n.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"><a class="sa_slide_link_icon" href="https://ieee-npss.org/community/" target="_self" title="" aria-label=""></div></div></div>
+<div class="owl-item cloned" style="width: 499.198px;"><div id="slider_2449_slide07" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(/assets/img/pccp/355438134_1004836217174101_1000002577192842272_n.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"></div></div></div>
 
 <div class="owl-item" style="width: 499.198px;"><div id="slider_2449_slide01" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(/assets/img/pccp/355466317_1333851710900638_9121683033927798385_n.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"></div></div></div>
 
