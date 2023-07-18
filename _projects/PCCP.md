@@ -1,8 +1,6 @@
 ---
 layout: default
 title: "Programa de capacitación de colegios en plasma"
-image_sliders:
-  - example_slider
 ---
 El plasma es el cuarto estado fundamental de la materia y el más común de todos. Aproximadamente el
 99% del universo se encuentra en estado de plasma. Sin embargo, en la actualidad, gran parte de la
