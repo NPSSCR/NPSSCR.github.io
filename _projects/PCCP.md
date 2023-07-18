@@ -51,3 +51,62 @@ capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 <h1>Chapters</h1></div></div><div class="owl-item cloned" style="width: 499.198px;"><div id="slider_2449_slide04" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(&quot;https://ieee-npss.org/wp-content/uploads/2016/04/DL-Munnar-1-1.jpg&quot;); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"><a class="sa_slide_link_icon" href="https://ieee-npss.org/distinguished-lecturers/" target="_self" title="" aria-label=""></a></div>
 <h1>Distinguished Lecturers</h1></div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev">Previous</button><button type="button" role="presentation" class="owl-next">Next</button></div><div class="owl-dots"><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot"><span></span></button><button role="button" class="owl-dot active"><span></span></button></div><div class="owl-thumbs"></div></div>
 </div>
+<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery('#slider_2449').owlCarousel({
+			items : 1,
+			smartSpeed : 200,
+			autoplay : true,
+			autoplayTimeout : 5000,
+			autoplayHoverPause : true,
+			smartSpeed : 200,
+			fluidSpeed : 200,
+			autoplaySpeed : 200,
+			navSpeed : 200,
+			dotsSpeed : 200,
+			loop : true,
+			nav : true,
+			navText : ['Previous','Next'],
+			dots : true,
+			responsiveRefreshRate : 200,
+			slideBy : 1,
+			mergeFit : true,
+			autoHeight : false,
+			mouseDrag : true,
+			touchDrag : true
+		});
+		jQuery('#slider_2449').css('visibility', 'visible');
+		var owl_goto = jQuery('#slider_2449');
+		jQuery('.slider_2449_goto1').click(function(event){
+			owl_goto.trigger('to.owl.carousel', 0);
+		});
+		jQuery('.slider_2449_goto2').click(function(event){
+			owl_goto.trigger('to.owl.carousel', 1);
+		});
+		jQuery('.slider_2449_goto3').click(function(event){
+			owl_goto.trigger('to.owl.carousel', 2);
+		});
+		jQuery('.slider_2449_goto4').click(function(event){
+			owl_goto.trigger('to.owl.carousel', 3);
+		});
+		jQuery('.slider_2449_goto5').click(function(event){
+			owl_goto.trigger('to.owl.carousel', 4);
+		});
+		jQuery('.slider_2449_goto6').click(function(event){
+			owl_goto.trigger('to.owl.carousel', 5);
+		});
+		jQuery('.slider_2449_goto7').click(function(event){
+			owl_goto.trigger('to.owl.carousel', 6);
+		});
+		var resize_2449 = jQuery('.owl-carousel');
+		resize_2449.on('initialized.owl.carousel', function(e) {
+			if (typeof(Event) === 'function') {
+				window.dispatchEvent(new Event('resize'));
+			} else {
+				var evt = window.document.createEvent('UIEvents');
+				evt.initUIEvent('resize', true, false, window, 0);
+				window.dispatchEvent(evt);
+			}
+		});
+	});
+</script>
