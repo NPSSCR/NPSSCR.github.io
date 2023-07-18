@@ -1,6 +1,8 @@
 ---
 layout: default
 title: "Programa de capacitación de colegios en plasma"
+image_sliders:
+  - example_slider
 ---
 El plasma es el cuarto estado fundamental de la materia y el más común de todos. Aproximadamente el
 99% del universo se encuentra en estado de plasma. Sin embargo, en la actualidad, gran parte de la
@@ -32,4 +34,4 @@ capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 - [Formulario de inscripción](https://ieee.surveysparrow.com/s/solicitud-de-charlas/tt-98UbXsRdPfYf5w1YpnsXL5)
   
 ## Galería
-{% include image-gallery.html folder="/assets/img/galeria/PCCP" %}
+{% include slider.html selector="example_slider" %}
