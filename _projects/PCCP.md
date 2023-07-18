@@ -35,8 +35,7 @@ capacitaciones a estudiantes en temas de plasmas térmicos y no térmicos.
 <div class="white" style="background:rgba(0,0,0,0); border:solid 0px rgba(0,0,0,0); border-radius:0px; padding:0px 0px 1px 0px;">
 <div id="slider_2449" class="owl-carousel sa_owl_theme owl-pagination-true autohide-arrows owl-loaded owl-drag" data-slider-id="slider_2449" style="visibility: visible;">
 <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-4991px, 0px, 0px); transition: all 0.2s ease 0s; width: 7488px;">
-<div class="owl-item cloned" style="width: 499.198px;"><div id="slider_2449_slide04" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(/assets/img/pccp/355272227_582091223820143_5039241303430193849_n.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"><a class="sa_slide_link_icon" href="https://ieee-npss.org/distinguished-lecturers/" target="_self" title="" aria-label=""></a></div>
-<h1>Distinguished Lecturers</h1></div></div>
+<div class="owl-item cloned" style="width: 499.198px;"><div id="slider_2449_slide04" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(/assets/img/pccp/355272227_582091223820143_5039241303430193849_n.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"></div></div></div>
 
 <div class="owl-item cloned" style="width: 499.198px;"><div id="slider_2449_slide05" class="sa_hover_container" style="padding:0% 0%; margin:0px 0%; background-image:url(/assets/img/pccp/355403535_762957225577846_7039262878779934030_n.jpg); background-position:left top; background-size:cover; background-repeat:no-repeat; min-height:360px; "><div class="sa_hover_fullslide"></div></div></div>
 
