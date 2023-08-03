@@ -49,6 +49,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:path/
+  authors:
+    output: true
+    permalink: /authors/:path/
 
 
 # Build settings

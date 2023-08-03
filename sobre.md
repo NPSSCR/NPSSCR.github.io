@@ -15,7 +15,7 @@ Gracias al trabajo de la NPSS en Costa Rica, cada vez son más las personas inte
 
 ## Junta Directiva
  - Chair: [Fabian Alvarez](mailto:fabian.alvarez@ieee.org)
- - Vice Chair: [Jimena Rivera](mailto:)
+ - Vice Chair: [Kendy Arias](mailto:)
  - Secretario: [Jose Borloz](mailto:)
  - Tesorero: [Fabricio Coto](mailto:)
 
