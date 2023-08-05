@@ -3,4 +3,6 @@ layout: default
 title: "Latinpractice"
 permalink: /latinpractice/
 ---
-## Links de interés
+## Guías
+- [Instalación de la OSS-CAD-SUITE](/latinpractice/Instalacion/)
+
