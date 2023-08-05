@@ -4,5 +4,5 @@ title: "Latinpractice"
 permalink: /latinpractice/
 ---
 ## Guías
-- [Instalación de la OSS-CAD-SUITE](/latinpractice/Instalacion/)
+- [Instalación de la OSS-CAD-SUITE](/latinpractice/Instalacion)
 
