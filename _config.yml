@@ -45,7 +45,7 @@ collections:
     permalink: /events/:path/
   posts:
     output: true
-    permalink: pretty
+    permalink: /posts/:title/
   projects:
     output: true
     permalink: /projects/:path/
